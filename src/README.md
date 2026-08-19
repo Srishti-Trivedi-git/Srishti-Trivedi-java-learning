@@ -52,7 +52,7 @@ Learning how to work with Strings and perform different String operations in Jav
 
 Applying the concepts I have learned through coding challenges and practice problems.
 
-**###12.Basic Maths**
+**12.Basic Maths**
 
 Basic maths logic important for DSA logic building.
 
